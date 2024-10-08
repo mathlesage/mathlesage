@@ -4,12 +4,12 @@
 - Bachelor's degree in Mathematics and Computer Science
 - Passionate about LLMs (Large Language Models), Python, and Data Science
 - Seeking an internship to apply my skills and learn more
-### Skills
+### 💼 Skills
 - Programming in Python
 - Mathematical modeling
 - Data analysis
 - Machine learning
-### 🌱What I'm currently learning
+### 🌱 What I'm currently learning
 - Building my own LLM
 - Deep learning techniques in NLP
 - Agent techniques and Retrieval-Augmented Generation (RAG) for LLMs
