@@ -1,12 +1,17 @@
 # Hello, I'm Mathéo 👋
 
-### 🎓 Master 1 Student in Computer Science and Mathématics at Dauphine University
-- 💡 **Specialization**: Data Processing & Decision-Making
-- 🔭 **Seeking**: An internship in data processing and decision-making
-- 🤝 **Team Player**: Passionate about working in teams and collaborating on exciting projects
-- 💻 **Languages**: Proficient in Python, C, Java
-- 📊 **Skills**: Strong foundation in Linear Algebra & Optimization
-- 🚀 **Fast Learner**: Eager to continuously learn and grow in the tech field
-
+### 🎓 Student in Master 1 at the University of Paris-Dauphine
+- Bachelor's degree in Mathematics and Computer Science
+- Passionate about LLMs (Large Language Models), Python, and Data Science
+- Seeking an internship to apply my skills and learn more
+### Skills
+- Programming in Python
+- Mathematical modeling
+- Data analysis
+- Machine learning
+### 🌱What I'm currently learning
+- Building my own LLM
+- Deep learning techniques in NLP
+- Agent techniques and Retrieval-Augmented Generation (RAG) for LLMs
 ### 📫 How to reach me:
 - Email: [matheo.quatreboeufs@dauphine.eu](mailto:matheo.quatreboeufs@dauphine.eu)
