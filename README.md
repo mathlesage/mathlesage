@@ -1,6 +1,6 @@
 # Hello, I'm Mathéo 👋
 
-### 🎓 Student in Master 1 at the University of Paris-Dauphine
+### 🎓 Student in Master 2 at Paris Sciences et Lettres University
 - Bachelor's degree in Mathematics and Computer Science
 - Passionate about LLMs (Large Language Models), Python, and Data Science
 - Seeking an internship to apply my skills and learn more
