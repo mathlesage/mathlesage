@@ -9,9 +9,5 @@
 - Mathematical modeling
 - Data analysis
 - Machine learning
-### 🌱 What I'm currently learning
-- Building my own LLM
-- Deep learning techniques in NLP
-- Agent techniques and Retrieval-Augmented Generation (RAG) for LLMs
 ### 📫 How to reach me:
 - Email: [matheo.quatreboeufs@dauphine.eu](mailto:matheo.quatreboeufs@dauphine.eu)
